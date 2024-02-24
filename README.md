@@ -15,6 +15,7 @@
 ### Links
 
 - Solution URL: [Solution URL](https://github.com/bekaChaduneli/metaversus-app)
+- Live URL: [Live URL](https://metaversus-lugkjqu0e-bekachaduneli.vercel.app)
 
 ### Built with
 
